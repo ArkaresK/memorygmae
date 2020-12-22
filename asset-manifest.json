@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/memorygmae/static/css/main.536125e2.chunk.css",
-    "main.js": "/memorygmae/static/js/main.2c0476e1.chunk.js",
-    "main.js.map": "/memorygmae/static/js/main.2c0476e1.chunk.js.map",
+    "main.css": "/memorygmae/static/css/main.8049b632.chunk.css",
+    "main.js": "/memorygmae/static/js/main.23896167.chunk.js",
+    "main.js.map": "/memorygmae/static/js/main.23896167.chunk.js.map",
     "runtime-main.js": "/memorygmae/static/js/runtime-main.dac3e5fa.js",
     "runtime-main.js.map": "/memorygmae/static/js/runtime-main.dac3e5fa.js.map",
-    "static/js/2.75bb8232.chunk.js": "/memorygmae/static/js/2.75bb8232.chunk.js",
-    "static/js/2.75bb8232.chunk.js.map": "/memorygmae/static/js/2.75bb8232.chunk.js.map",
+    "static/js/2.5c8f7a6f.chunk.js": "/memorygmae/static/js/2.5c8f7a6f.chunk.js",
+    "static/js/2.5c8f7a6f.chunk.js.map": "/memorygmae/static/js/2.5c8f7a6f.chunk.js.map",
     "index.html": "/memorygmae/index.html",
-    "static/css/main.536125e2.chunk.css.map": "/memorygmae/static/css/main.536125e2.chunk.css.map",
-    "static/js/2.75bb8232.chunk.js.LICENSE.txt": "/memorygmae/static/js/2.75bb8232.chunk.js.LICENSE.txt"
+    "static/css/main.8049b632.chunk.css.map": "/memorygmae/static/css/main.8049b632.chunk.css.map",
+    "static/js/2.5c8f7a6f.chunk.js.LICENSE.txt": "/memorygmae/static/js/2.5c8f7a6f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dac3e5fa.js",
-    "static/js/2.75bb8232.chunk.js",
-    "static/css/main.536125e2.chunk.css",
-    "static/js/main.2c0476e1.chunk.js"
+    "static/js/2.5c8f7a6f.chunk.js",
+    "static/css/main.8049b632.chunk.css",
+    "static/js/main.23896167.chunk.js"
   ]
 }
