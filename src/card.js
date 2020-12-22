@@ -1,6 +1,5 @@
 
 import React from 'react';
-import akali from './champion-akali-bloodmoon-splash.jpg'
 export default class Card extends React.Component {
     constructor(props) {
         super(props)
@@ -17,7 +16,7 @@ export default class Card extends React.Component {
           <div className="front">
           </div>
           <div className="back">
-            <img src={/*akali */"https://raw.githubusercontent.com/samiheikki/javascript-guessing-game/master/static/logos/" 
+            <img src={/*akali */"https://raw.githubusercontent.com/ArkaresK/memorygmae/master/static/icons/" 
             + this.props.Image + ".png"} alt={this.props.Image}/>
           </div>
         </div>
